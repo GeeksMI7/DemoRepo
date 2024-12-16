@@ -10,5 +10,8 @@ public class Search_test {
 		System.out.println("Searchhh");
 	}
 	
+	public void serachtest1() {
+		System.out.println("Searchhh");
+	}
 	
 }
