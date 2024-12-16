@@ -51,6 +51,13 @@ public class Login_test extends BaseLibrary {
 		System.out.println(b);
 	}
 	
+	@Test
+	public void googleemailtest() {
+		
+		boolean b=driver.findElement(By.xpath("//*[@id=\"logo-icon\"]")).isDisplayed();
+		System.out.println(b);
+	}
+	
 	@AfterTest
 	public void tearDown() {
 		driver.quit();
