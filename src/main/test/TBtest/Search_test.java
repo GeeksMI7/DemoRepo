@@ -6,5 +6,9 @@ public class Search_test {
 		System.out.println("Search");
 	}
 	
+	public void serachtest() {
+		System.out.println("Searchhh");
+	}
+	
 	
 }
